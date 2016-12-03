@@ -496,7 +496,7 @@ a:hover {
     border-bottom:1px solid green !important;
     padding-bottom:4px; 
     color:green;
-    margin:8px 0px 15px 0px;
+    margin:7px 0px 15px 0px;
     position: relative;
     text-align: center;
 }
@@ -508,3 +508,28 @@ a:hover {
     margin-bottom: 5px;
 }
 .img300 img{border:solid 2px #cfd4c3; width: 277px;display: block;}
+.footer-inner {
+    margin-left:10px;
+}
+.footer{
+    padding-top:10px !important;
+}
+.more{
+    text-align: center;
+    color:green;
+  
+}
+.more:hover{
+    cursor: pointer;
+}
+#main-container{
+    margin-top:10px !important;
+}
+.text{
+    float:left;
+    width: 70%;
+}
+.images{
+    float: right;
+    width: 30%;
+}
